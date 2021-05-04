@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4n0MA7EiQCoqhBvwQths8rxkvniRebWLTa1bSojbnksFAdISeX4I6k24VFOt24vm2dchH0uOqcRoM7RL2Y1Jkg==",
+  "dgSpecHash": "PxyEQo1Tu87tqUR11W2u04Mb1KPdTvVaabkApZs7rTEImEa+hIGTGBu5MB9tbfGgDW8bTzekEqQZQsXDHnzuJQ==",
   "success": true,
-  "projectFilePath": "C:\\repo\\testbank\\testbank\\testbank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Estudo\\CSharp\\testbank\\testbank\\testbank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\88335\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }
