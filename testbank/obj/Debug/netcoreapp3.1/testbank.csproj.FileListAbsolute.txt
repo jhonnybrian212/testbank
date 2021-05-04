@@ -1,0 +1,13 @@
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.exe
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.deps.json
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.runtimeconfig.json
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.runtimeconfig.dev.json
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.dll
+C:\Estudo\CSharp\testbank\testbank\bin\Debug\netcoreapp3.1\testbank.pdb
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.csprojAssemblyReference.cache
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.AssemblyInfoInputs.cache
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.AssemblyInfo.cs
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.csproj.CoreCompileInputs.cache
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.dll
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.pdb
+C:\Estudo\CSharp\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.genruntimeconfig.cache
