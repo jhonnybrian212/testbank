@@ -1,0 +1,4 @@
+C:\repo\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.csprojAssemblyReference.cache
+C:\repo\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.AssemblyInfoInputs.cache
+C:\repo\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.AssemblyInfo.cs
+C:\repo\testbank\testbank\obj\Debug\netcoreapp3.1\testbank.csproj.CoreCompileInputs.cache
